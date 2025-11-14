@@ -795,6 +795,7 @@ src/engine/fileOpsSample.cpp
 src/engine/filePlayer.cpp
 src/engine/filter.cpp
 src/engine/instrument.cpp
+src/engine/legacySample.cpp
 src/engine/macroInt.cpp
 src/engine/pattern.cpp
 src/engine/pitchTable.cpp
@@ -1004,6 +1005,7 @@ src/gui/scaling.cpp
 src/gui/settings.cpp
 src/gui/songInfo.cpp
 src/gui/songNotes.cpp
+src/gui/spectrum.cpp
 src/gui/speed.cpp
 src/gui/spoiler.cpp
 src/gui/stats.cpp
@@ -1013,6 +1015,7 @@ src/gui/sysEx.cpp
 src/gui/sysManager.cpp
 src/gui/sysMiscInfo.cpp
 src/gui/sysPicker.cpp
+src/gui/tuner.cpp
 src/gui/tutorial.cpp
 src/gui/userPresets.cpp
 src/gui/util.cpp
